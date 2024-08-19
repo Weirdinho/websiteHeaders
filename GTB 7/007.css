@@ -34,6 +34,7 @@ padding: 0px 70px;
     width: 75%;
     margin-left: 15%;
     align-items: center;
+
 }
 .div-p{
     background-color: #DD4A0A;
@@ -86,19 +87,25 @@ button{
     border: none;
 }
 .hero-right{
+    background-color: #DD4A0A;
+    background-image: 
+      radial-gradient(circle, rgba(255, 255, 255, 0.5) 0%, rgba(221, 74, 10, 0.8) 40%, #DD4A0A 100%);
+  
+   
     width: 48%;
-    height: 84vh;
+    height: 86.6vh;
     position: relative;
 }
 .orange{
+    display: none;
     background-color: #DD4A0A;
     height: 84vh; 
     width: 100%;
 }
 .woman{
-    height: 420px;
+    height: 430px;
     position: absolute;
-    top: 80px;
+    top: 86px;
     right: 190px;
 }
 .coin{
