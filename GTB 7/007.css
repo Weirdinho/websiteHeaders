@@ -83,15 +83,13 @@ button{
     border-radius: 8px;
     background-color: rgba(234, 76, 8, 1);
     color: white;
-    width: 200px;
+    width: 295px;
     border: none;
 }
 .hero-right{
     background-color: #DD4A0A;
     background-image: 
       radial-gradient(circle, rgba(255, 255, 255, 0.5) 0%, rgba(221, 74, 10, 0.8) 40%, #DD4A0A 100%);
-  
-   
     width: 48%;
     height: 86.6vh;
     position: relative;
