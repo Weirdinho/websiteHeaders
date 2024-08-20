@@ -9,7 +9,7 @@ display: flex;
 /* justify-content: space-between; */
 height: 80px;
 width: 100%;
-border-bottom: 1px rgb(193, 191, 191) solid;
+/* border-bottom: 1px rgb(193, 191, 191) solid; */
 padding: 0px 70px;
 position: absolute;
 background-color: white;
